@@ -1,6 +1,6 @@
 # Hybrid Language Identifier
 
-A fast, interpretable, and highly accurate language identification system that combines classic n-gram analysis with modern subword tokenization. This project provides a resource-efficient alternative to large language models for the specific task of language identification, making it ideal for high-volume NLP pipelines.
+A fast, interpretable, and accurate language identification system that combines classic n-gram analysis with modern subword tokenization. This project provides a resource-efficient alternative to large language models for the specific task of language identification, making it ideal for high-volume NLP pipelines.
 
 ## Methodology
 
