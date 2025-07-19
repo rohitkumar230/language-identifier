@@ -69,3 +69,7 @@ pytest
 
 # Licence
 This project is licensed under the **MIT License**.
+
+# Reference 
+
+Cavnar, W. B., & Trenkle, J. M. (1994). N-Gram-Based Text Categorization. In Proceedings of SDAIR-94, the Third Annual Symposium on Document Analysis and Information Retrieval (pp. 161-175).
